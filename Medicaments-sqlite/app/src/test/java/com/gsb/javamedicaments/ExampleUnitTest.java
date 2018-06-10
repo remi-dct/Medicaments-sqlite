@@ -1,4 +1,4 @@
-package com.sqlite.gsb.medicamentssqlite;
+package com.gsb.javamedicaments;
 
 import org.junit.Test;
 
