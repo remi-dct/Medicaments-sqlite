@@ -1,4 +1,4 @@
-package com.sqlite.gsb.medicamentssqlite;
+package com.gsb.javamedicaments;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.sqlite.gsb.medicamentssqlite", appContext.getPackageName());
+        assertEquals("com.gsb.javamedicaments", appContext.getPackageName());
     }
 }

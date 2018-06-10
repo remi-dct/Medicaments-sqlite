@@ -1,4 +1,4 @@
-package com.sqlite.gsb.medicamentssqlite;
+package com.gsb.javamedicaments;
 
 import android.Manifest;
 import android.content.DialogInterface;
